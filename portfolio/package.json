@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Nasir-Kasumu.github.io/Nasir-Kasumu.github.io",
+  "homepage": "https://nasir-kasumu.github.io/nasir-kasumu.github.io",
   "dependencies": {
     "@babel/runtime": "^7.10.3",
     "@carbon/icons-react": "^10.13.0",
