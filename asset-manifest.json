@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Nasir-Kasumu.github.io/static/css/main.105ad762.chunk.css",
+    "main.js": "/Nasir-Kasumu.github.io/static/js/main.0eddaf66.chunk.js",
+    "main.js.map": "/Nasir-Kasumu.github.io/static/js/main.0eddaf66.chunk.js.map",
+    "runtime-main.js": "/Nasir-Kasumu.github.io/static/js/runtime-main.27312c69.js",
+    "runtime-main.js.map": "/Nasir-Kasumu.github.io/static/js/runtime-main.27312c69.js.map",
+    "static/js/2.9586cf09.chunk.js": "/Nasir-Kasumu.github.io/static/js/2.9586cf09.chunk.js",
+    "static/js/2.9586cf09.chunk.js.map": "/Nasir-Kasumu.github.io/static/js/2.9586cf09.chunk.js.map",
+    "index.html": "/Nasir-Kasumu.github.io/index.html",
+    "precache-manifest.44df01b29cdff12d6873d5cba02e9257.js": "/Nasir-Kasumu.github.io/precache-manifest.44df01b29cdff12d6873d5cba02e9257.js",
+    "service-worker.js": "/Nasir-Kasumu.github.io/service-worker.js",
+    "static/css/main.105ad762.chunk.css.map": "/Nasir-Kasumu.github.io/static/css/main.105ad762.chunk.css.map",
+    "static/js/2.9586cf09.chunk.js.LICENSE.txt": "/Nasir-Kasumu.github.io/static/js/2.9586cf09.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27312c69.js",
+    "static/js/2.9586cf09.chunk.js",
+    "static/css/main.105ad762.chunk.css",
+    "static/js/main.0eddaf66.chunk.js"
+  ]
+}
