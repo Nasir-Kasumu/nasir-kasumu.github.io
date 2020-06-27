@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6fdd570b795f294f8de6088a006d7fa3",
+    "revision": "7b583f2ca595aca5f8ac22e6348dac44",
     "url": "/nasir-kasumu.github.io/index.html"
   },
   {
-    "revision": "b1aceb4cd1de401d4ace",
+    "revision": "ccf6ca89380d1267daac",
     "url": "/nasir-kasumu.github.io/static/css/main.105ad762.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nasir-kasumu.github.io/static/js/2.d7c423fe.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b1aceb4cd1de401d4ace",
-    "url": "/nasir-kasumu.github.io/static/js/main.5b3aba27.chunk.js"
+    "revision": "ccf6ca89380d1267daac",
+    "url": "/nasir-kasumu.github.io/static/js/main.5228cf1e.chunk.js"
   },
   {
     "revision": "0fb6f21193c900936cba",
