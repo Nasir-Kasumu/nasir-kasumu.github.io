@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/nasir-k/static/css/main.105ad762.chunk.css",
-    "main.js": "/nasir-k/static/js/main.068ac641.chunk.js",
-    "main.js.map": "/nasir-k/static/js/main.068ac641.chunk.js.map",
+    "main.js": "/nasir-k/static/js/main.f42a5286.chunk.js",
+    "main.js.map": "/nasir-k/static/js/main.f42a5286.chunk.js.map",
     "runtime-main.js": "/nasir-k/static/js/runtime-main.ed38a891.js",
     "runtime-main.js.map": "/nasir-k/static/js/runtime-main.ed38a891.js.map",
-    "static/js/2.9327c8c5.chunk.js": "/nasir-k/static/js/2.9327c8c5.chunk.js",
-    "static/js/2.9327c8c5.chunk.js.map": "/nasir-k/static/js/2.9327c8c5.chunk.js.map",
+    "static/js/2.536442c2.chunk.js": "/nasir-k/static/js/2.536442c2.chunk.js",
+    "static/js/2.536442c2.chunk.js.map": "/nasir-k/static/js/2.536442c2.chunk.js.map",
     "index.html": "/nasir-k/index.html",
-    "precache-manifest.3ffd75f1ee778644d89baaa3cbeaf0b9.js": "/nasir-k/precache-manifest.3ffd75f1ee778644d89baaa3cbeaf0b9.js",
+    "precache-manifest.758d47dc213ca794c1dac5301b09eee2.js": "/nasir-k/precache-manifest.758d47dc213ca794c1dac5301b09eee2.js",
     "service-worker.js": "/nasir-k/service-worker.js",
     "static/css/main.105ad762.chunk.css.map": "/nasir-k/static/css/main.105ad762.chunk.css.map",
-    "static/js/2.9327c8c5.chunk.js.LICENSE.txt": "/nasir-k/static/js/2.9327c8c5.chunk.js.LICENSE.txt"
+    "static/js/2.536442c2.chunk.js.LICENSE.txt": "/nasir-k/static/js/2.536442c2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ed38a891.js",
-    "static/js/2.9327c8c5.chunk.js",
+    "static/js/2.536442c2.chunk.js",
     "static/css/main.105ad762.chunk.css",
-    "static/js/main.068ac641.chunk.js"
+    "static/js/main.f42a5286.chunk.js"
   ]
 }
